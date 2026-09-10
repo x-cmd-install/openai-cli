@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: openai-cli
+  binname: openai-cli
+  visiblename: openai-cli
+  version: 0.3.7
+  origversion: 0.3.7-1
+  status: unique
+  summary: CLI for the GPT model written in Rust
+  maintainers:
+    - levitating@aur
+  licenses:
+    - MIT
