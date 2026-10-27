@@ -14,7 +14,7 @@
   srcname: llm/openai-cli
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.40.2
+  version: 1.43.1
   origversion: null
   status: newest
   summary: Official CLI for the OpenAI API
@@ -24,3 +24,12 @@
     - Apache-2
   categories:
     - llm
+- repo: scoop
+  subrepo: main
+  binname: openai-cli
+  visiblename: openai-cli
+  version: 1.43.1
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
