@@ -16,7 +16,7 @@
   visiblename: openai-cli
   version: 1.43.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Official CLI for the OpenAI API
   maintainers:
     - herbygillot@github
@@ -28,7 +28,7 @@
   subrepo: main
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.43.1
+  version: 1.44.1
   origversion: null
   status: newest
   licenses:
