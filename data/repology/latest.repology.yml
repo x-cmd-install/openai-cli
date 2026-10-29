@@ -14,7 +14,7 @@
   srcname: llm/openai-cli
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.43.1
+  version: 1.44.1
   origversion: null
   status: outdated
   summary: Official CLI for the OpenAI API
@@ -28,7 +28,7 @@
   subrepo: main
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.44.1
+  version: 1.45.1
   origversion: null
   status: newest
   licenses:
