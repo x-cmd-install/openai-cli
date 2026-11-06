@@ -28,7 +28,7 @@
   subrepo: main
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.50.0
+  version: 1.51.3
   origversion: null
   status: newest
   licenses:
