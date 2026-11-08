@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: openai-cli
+  visiblename: openai-cli
+  version: 1.51.5
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: openai-cli
   binname: openai-cli
@@ -24,12 +33,3 @@
     - Apache-2
   categories:
     - llm
-- repo: scoop
-  subrepo: main
-  binname: openai-cli
-  visiblename: openai-cli
-  version: 1.51.4
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
