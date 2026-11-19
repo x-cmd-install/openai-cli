@@ -14,9 +14,9 @@
   srcname: llm/openai-cli
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.54.0
+  version: 1.55.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Official CLI for the OpenAI API
   maintainers:
     - herbygillot@github
@@ -28,7 +28,7 @@
   subrepo: main
   binname: openai-cli
   visiblename: openai-cli
-  version: 1.54.0
+  version: 1.55.1
   origversion: null
   status: newest
   licenses:
